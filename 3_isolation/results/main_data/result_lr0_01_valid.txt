@@ -1,0 +1,2027 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 152 K-images (2 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14970.png: Predicted in 40.594000 milli-seconds.
+Jellyfish: 85%	(left_x:  867   top_y:  491   width:   71   height:   91)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_05_05_16987.png: Predicted in 40.638000 milli-seconds.
+Jellyfish: 98%	(left_x:  844   top_y:  157   width:  455   height:  523)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7163.png: Predicted in 39.410000 milli-seconds.
+Jellyfish: 93%	(left_x:  962   top_y:  225   width:  105   height:   84)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16252.png: Predicted in 38.837000 milli-seconds.
+Jellyfish: 30%	(left_x:  482   top_y:  479   width:  141   height:   81)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_52_13003.png: Predicted in 38.838000 milli-seconds.
+Jellyfish: 47%	(left_x:  654   top_y:  437   width:   58   height:   75)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_30_9834.png: Predicted in 29.915000 milli-seconds.
+Jellyfish: 63%	(left_x:  697   top_y:   10   width:   77   height:  114)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16260.png: Predicted in 29.880000 milli-seconds.
+Jellyfish: 99%	(left_x:  572   top_y:   67   width:  169   height:  160)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_08_23_22926.png: Predicted in 29.964000 milli-seconds.
+Jellyfish: 91%	(left_x:  895   top_y:  282   width:   91   height:  114)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16277.png: Predicted in 28.101000 milli-seconds.
+Jellyfish: 95%	(left_x:  782   top_y:  146   width:  390   height:  282)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21381.png: Predicted in 27.954000 milli-seconds.
+Jellyfish: 98%	(left_x:  776   top_y:  379   width:  161   height:  177)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2617.png: Predicted in 28.014000 milli-seconds.
+Jellyfish: 100%	(left_x:  436   top_y:  -12   width:  235   height:  212)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4919.png: Predicted in 27.710000 milli-seconds.
+Jellyfish: 96%	(left_x:   45   top_y:  -24   width:  427   height:  411)
+Jellyfish: 57%	(left_x:  872   top_y:    0   width:   46   height:   50)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7169.png: Predicted in 27.246000 milli-seconds.
+Jellyfish: 98%	(left_x:  696   top_y:  333   width:  103   height:   94)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4901.png: Predicted in 27.200000 milli-seconds.
+Jellyfish: 96%	(left_x:  769   top_y:   40   width:  119   height:  181)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7168.png: Predicted in 27.554000 milli-seconds.
+Jellyfish: 98%	(left_x:  729   top_y:  356   width:  100   height:   99)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7972.png: Predicted in 27.433000 milli-seconds.
+Jellyfish: 85%	(left_x:  538   top_y:  319   width:  123   height:  160)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_05_15018.png: Predicted in 27.220000 milli-seconds.
+Jellyfish: 88%	(left_x:  447   top_y:  437   width:  625   height:  288)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16756.png: Predicted in 27.600000 milli-seconds.
+Jellyfish: 91%	(left_x:  325   top_y:   -9   width:  636   height:  325)
+Fish: 42%	(left_x:  428   top_y:  194   width:  597   height:  451)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7285.png: Predicted in 27.187000 milli-seconds.
+Jellyfish: 93%	(left_x:   19   top_y:  115   width:  331   height:  349)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_29_19344.png: Predicted in 27.188000 milli-seconds.
+Jellyfish: 70%	(left_x:  631   top_y:  263   width:  107   height:   96)
+Jellyfish: 78%	(left_x: 1017   top_y:  477   width:   52   height:   52)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8000.png: Predicted in 27.558000 milli-seconds.
+Jellyfish: 98%	(left_x:  611   top_y:  101   width:  386   height:  391)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7988.png: Predicted in 27.130000 milli-seconds.
+Jellyfish: 99%	(left_x:  715   top_y:  130   width:  209   height:  229)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16755.png: Predicted in 27.286000 milli-seconds.
+Jellyfish: 87%	(left_x:  234   top_y:  -35   width:  659   height:  478)
+Fish: 39%	(left_x:  375   top_y:  296   width:  562   height:  365)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_562.png: Predicted in 27.546000 milli-seconds.
+Fish: 66%	(left_x:  319   top_y:  128   width:  449   height:  438)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16746.png: Predicted in 27.281000 milli-seconds.
+Jellyfish: 62%	(left_x:   20   top_y:  374   width:  490   height:  263)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14983.png: Predicted in 27.333000 milli-seconds.
+Jellyfish: 89%	(left_x:  847   top_y:  641   width:   94   height:   76)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7286.png: Predicted in 27.717000 milli-seconds.
+Jellyfish: 85%	(left_x:   13   top_y:   99   width:  276   height:  393)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2614.png: Predicted in 27.134000 milli-seconds.
+Jellyfish: 99%	(left_x:  584   top_y:  141   width:  244   height:  172)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21391.png: Predicted in 27.197000 milli-seconds.
+Jellyfish: 100%	(left_x:  402   top_y:  333   width:  253   height:  269)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7059.png: Predicted in 26.103000 milli-seconds.
+Jellyfish: 98%	(left_x:  635   top_y:    9   width:  345   height:  268)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7981.png: Predicted in 25.733000 milli-seconds.
+Jellyfish: 98%	(left_x:  640   top_y:  272   width:  159   height:  155)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4892.png: Predicted in 25.694000 milli-seconds.
+Jellyfish: 91%	(left_x:  766   top_y:  166   width:  122   height:  126)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7989.png: Predicted in 25.691000 milli-seconds.
+Jellyfish: 97%	(left_x:  746   top_y:  208   width:  206   height:  237)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13008.png: Predicted in 25.719000 milli-seconds.
+Jellyfish: 96%	(left_x:  245   top_y:  169   width:  162   height:  140)
+Jellyfish: 55%	(left_x:  771   top_y:  366   width:   42   height:   60)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35137.png: Predicted in 25.655000 milli-seconds.
+Jellyfish: 93%	(left_x:  413   top_y:    1   width:  323   height:  237)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16258.png: Predicted in 25.665000 milli-seconds.
+Jellyfish: 98%	(left_x:  555   top_y:  130   width:  150   height:  163)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3832.png: Predicted in 25.684000 milli-seconds.
+Jellyfish: 60%	(left_x:  435   top_y:  380   width:  144   height:  160)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16275.png: Predicted in 25.821000 milli-seconds.
+Jellyfish: 99%	(left_x:  771   top_y:  214   width:  338   height:  275)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_08_22_22910.png: Predicted in 25.667000 milli-seconds.
+Jellyfish: 68%	(left_x:  739   top_y:   68   width:   67   height:  102)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_29_19349.png: Predicted in 25.795000 milli-seconds.
+Fish: 52%	(left_x:   69   top_y:  328   width:  357   height:  170)
+Jellyfish: 54%	(left_x: 1083   top_y:  123   width:  131   height:  171)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_530.png: Predicted in 25.797000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21382.png: Predicted in 25.692000 milli-seconds.
+Jellyfish: 99%	(left_x:  756   top_y:  471   width:  182   height:  154)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21876.png: Predicted in 25.760000 milli-seconds.
+Jellyfish: 95%	(left_x:  196   top_y:  112   width:  247   height:  261)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_56_13135.png: Predicted in 25.701000 milli-seconds.
+Jellyfish: 67%	(left_x: 1141   top_y:  116   width:  131   height:  184)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7991.png: Predicted in 25.865000 milli-seconds.
+Jellyfish: 96%	(left_x:  747   top_y:  272   width:  246   height:  213)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_57_13143.png: Predicted in 25.812000 milli-seconds.
+Jellyfish: 26%	(left_x:  835   top_y:    1   width:  140   height:  123)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9853.png: Predicted in 25.811000 milli-seconds.
+Jellyfish: 86%	(left_x:  365   top_y:  134   width:  210   height:  219)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13018.png: Predicted in 25.784000 milli-seconds.
+Jellyfish: 56%	(left_x:  451   top_y:  242   width:   49   height:   63)
+Jellyfish: 68%	(left_x:  995   top_y:    5   width:   55   height:   55)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_561.png: Predicted in 25.767000 milli-seconds.
+Fish: 82%	(left_x:  316   top_y:  130   width:  445   height:  429)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_563.png: Predicted in 25.706000 milli-seconds.
+Fish: 67%	(left_x:  309   top_y:  102   width:  471   height:  418)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3837.png: Predicted in 25.758000 milli-seconds.
+Jellyfish: 81%	(left_x:  379   top_y:  212   width:  186   height:  176)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3839.png: Predicted in 25.872000 milli-seconds.
+Jellyfish: 78%	(left_x:  408   top_y:  184   width:  199   height:  176)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_08_22_22915.png: Predicted in 25.846000 milli-seconds.
+Jellyfish: 89%	(left_x:  677   top_y:  104   width:   76   height:   91)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7984.png: Predicted in 25.689000 milli-seconds.
+Jellyfish: 84%	(left_x:  656   top_y:  114   width:  179   height:  169)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35136.png: Predicted in 25.711000 milli-seconds.
+Jellyfish: 93%	(left_x:  366   top_y:   11   width:  269   height:  206)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_05_05_16981.png: Predicted in 25.733000 milli-seconds.
+Jellyfish: 92%	(left_x:  355   top_y:  299   width:  254   height:  216)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_05_15020.png: Predicted in 26.944000 milli-seconds.
+Jellyfish: 89%	(left_x:  572   top_y:   23   width:  689   height:  564)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8006.png: Predicted in 26.648000 milli-seconds.
+Jellyfish: 76%	(left_x:  104   top_y:   62   width:  657   height:  478)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7990.png: Predicted in 26.252000 milli-seconds.
+Jellyfish: 97%	(left_x:  746   top_y:  260   width:  230   height:  231)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_540.png: Predicted in 26.244000 milli-seconds.
+Fish: 35%	(left_x:  105   top_y:   66   width:  484   height:  482)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7962.png: Predicted in 26.217000 milli-seconds.
+Jellyfish: 92%	(left_x:  464   top_y:  199   width:  119   height:  141)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21375.png: Predicted in 26.186000 milli-seconds.
+Jellyfish: 82%	(left_x:  806   top_y:  248   width:  135   height:  129)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35135.png: Predicted in 26.222000 milli-seconds.
+Jellyfish: 95%	(left_x:  325   top_y:   18   width:  287   height:  199)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3831.png: Predicted in 26.263000 milli-seconds.
+Fish: 49%	(left_x:  -32   top_y:   83   width: 1349   height:  557)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35134.png: Predicted in 26.203000 milli-seconds.
+Jellyfish: 98%	(left_x:  358   top_y:   25   width:  241   height:  213)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7960.png: Predicted in 26.238000 milli-seconds.
+Jellyfish: 88%	(left_x:  430   top_y:  121   width:  111   height:  130)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14980.png: Predicted in 26.208000 milli-seconds.
+Jellyfish: 94%	(left_x:  891   top_y:  430   width:   84   height:  114)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7952.png: Predicted in 26.353000 milli-seconds.
+Jellyfish: 76%	(left_x:  399   top_y:  287   width:   83   height:  137)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7975.png: Predicted in 26.344000 milli-seconds.
+Jellyfish: 95%	(left_x:  551   top_y:  236   width:  129   height:  166)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16272.png: Predicted in 26.304000 milli-seconds.
+Jellyfish: 86%	(left_x:  767   top_y:  144   width:  268   height:  296)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12997.png: Predicted in 26.222000 milli-seconds.
+Jellyfish: 93%	(left_x:  531   top_y:  292   width:  142   height:  104)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7977.png: Predicted in 26.293000 milli-seconds.
+Jellyfish: 90%	(left_x:  568   top_y:  132   width:  124   height:  166)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16257.png: Predicted in 26.343000 milli-seconds.
+Jellyfish: 98%	(left_x:  524   top_y:  150   width:  182   height:  157)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7959.png: Predicted in 26.205000 milli-seconds.
+Jellyfish: 84%	(left_x:  417   top_y:  129   width:  110   height:  142)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13017.png: Predicted in 26.290000 milli-seconds.
+Jellyfish: 64%	(left_x:  473   top_y:  278   width:   50   height:   68)
+Jellyfish: 29%	(left_x: 1010   top_y:   38   width:   63   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_05_05_16988.png: Predicted in 26.399000 milli-seconds.
+Jellyfish: 98%	(left_x:  913   top_y:   92   width:  394   height:  546)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16667.png: Predicted in 26.352000 milli-seconds.
+Jellyfish: 95%	(left_x:  260   top_y:  329   width:  102   height:  100)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_517.png: Predicted in 26.243000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13003.png: Predicted in 26.425000 milli-seconds.
+Jellyfish: 67%	(left_x:  436   top_y:  340   width:  153   height:  140)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_13_02_31309.png: Predicted in 26.377000 milli-seconds.
+Jellyfish: 54%	(left_x:  517   top_y:  322   width:  788   height:  329)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_546.png: Predicted in 27.224000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_531.png: Predicted in 27.240000 milli-seconds.
+Fish: 47%	(left_x:   30   top_y:  103   width:  275   height:  499)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21397.png: Predicted in 26.668000 milli-seconds.
+Jellyfish: 76%	(left_x:   -8   top_y:  142   width:  172   height:  351)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21384.png: Predicted in 26.369000 milli-seconds.
+Jellyfish: 99%	(left_x:  717   top_y:  476   width:  184   height:  145)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35139.png: Predicted in 26.098000 milli-seconds.
+Jellyfish: 96%	(left_x:  623   top_y:   22   width:  446   height:  317)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_528.png: Predicted in 25.557000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9855.png: Predicted in 25.455000 milli-seconds.
+Jellyfish: 81%	(left_x:  257   top_y:   69   width:  247   height:  210)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21875.png: Predicted in 24.948000 milli-seconds.
+Jellyfish: 91%	(left_x:  343   top_y:  129   width:  224   height:  252)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_13_02_31308.png: Predicted in 24.281000 milli-seconds.
+Jellyfish: 81%	(left_x:  437   top_y:  458   width:  790   height:  255)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2620.png: Predicted in 24.258000 milli-seconds.
+Jellyfish: 99%	(left_x:  273   top_y:   10   width:  309   height:  277)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7164.png: Predicted in 24.340000 milli-seconds.
+Jellyfish: 95%	(left_x:  881   top_y:  168   width:   98   height:   99)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_29_4920.png: Predicted in 23.871000 milli-seconds.
+Jellyfish: 85%	(left_x:    3   top_y:  -19   width:  365   height:  407)
+Jellyfish: 41%	(left_x:  843   top_y:    5   width:   43   height:   49)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_52_13000.png: Predicted in 23.798000 milli-seconds.
+Jellyfish: 82%	(left_x:  558   top_y:  339   width:   54   height:   58)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14971.png: Predicted in 23.866000 milli-seconds.
+Jellyfish: 87%	(left_x:  870   top_y:  435   width:   71   height:   92)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4911.png: Predicted in 23.771000 milli-seconds.
+Jellyfish: 87%	(left_x:  592   top_y:   28   width:  215   height:  317)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12998.png: Predicted in 23.841000 milli-seconds.
+Jellyfish: 88%	(left_x:  517   top_y:  296   width:  137   height:  109)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7997.png: Predicted in 23.733000 milli-seconds.
+Jellyfish: 99%	(left_x:  677   top_y:   24   width:  349   height:  348)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16669.png: Predicted in 23.802000 milli-seconds.
+Jellyfish: 97%	(left_x:  254   top_y:  323   width:  107   height:  103)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14973.png: Predicted in 23.913000 milli-seconds.
+Jellyfish: 88%	(left_x:  884   top_y:  495   width:   72   height:  100)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_08_22_22899.png: Predicted in 23.821000 milli-seconds.
+Jellyfish: 76%	(left_x:  699   top_y:  105   width:   48   height:   75)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_30_9835.png: Predicted in 23.835000 milli-seconds.
+Jellyfish: 62%	(left_x:  685   top_y:   72   width:   81   height:   96)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_560.png: Predicted in 23.861000 milli-seconds.
+Fish: 60%	(left_x:  322   top_y:  137   width:  432   height:  420)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2622.png: Predicted in 23.964000 milli-seconds.
+Jellyfish: 100%	(left_x:  171   top_y:  -14   width:  285   height:  166)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3838.png: Predicted in 22.562000 milli-seconds.
+Jellyfish: 91%	(left_x:  373   top_y:  204   width:  211   height:  171)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_57_13141.png: Predicted in 22.158000 milli-seconds.
+Jellyfish: 92%	(left_x:  776   top_y:   52   width:  172   height:  192)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16256.png: Predicted in 22.188000 milli-seconds.
+Jellyfish: 98%	(left_x:  505   top_y:  163   width:  156   height:  148)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_46_3096.png: Predicted in 22.158000 milli-seconds.
+Jellyfish: 86%	(left_x:  683   top_y:    3   width:  121   height:  100)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13012.png: Predicted in 22.149000 milli-seconds.
+Jellyfish: 69%	(left_x:    0   top_y:    1   width:  143   height:   98)
+Jellyfish: 58%	(left_x:  598   top_y:  199   width:   42   height:   62)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21389.png: Predicted in 22.164000 milli-seconds.
+Jellyfish: 99%	(left_x:  537   top_y:  360   width:  245   height:  207)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9847.png: Predicted in 22.252000 milli-seconds.
+Jellyfish: 29%	(left_x:  427   top_y:   13   width:  171   height:   97)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_29_19348.png: Predicted in 22.220000 milli-seconds.
+Fish: 32%	(left_x:   34   top_y:  208   width:  377   height:  176)
+Jellyfish: 84%	(left_x: 1034   top_y:    7   width:  115   height:  129)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7986.png: Predicted in 22.231000 milli-seconds.
+Jellyfish: 99%	(left_x:  666   top_y:   17   width:  187   height:  204)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_52_3272.png: Predicted in 22.150000 milli-seconds.
+Jellyfish: 92%	(left_x:  -28   top_y:  -38   width:  441   height:  402)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7282.png: Predicted in 22.112000 milli-seconds.
+Jellyfish: 95%	(left_x:  433   top_y:   -5   width:  254   height:  206)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7979.png: Predicted in 22.168000 milli-seconds.
+Jellyfish: 99%	(left_x:  598   top_y:  198   width:  145   height:  195)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14974.png: Predicted in 22.229000 milli-seconds.
+Jellyfish: 92%	(left_x:  886   top_y:  570   width:   71   height:  107)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21378.png: Predicted in 22.152000 milli-seconds.
+Jellyfish: 81%	(left_x:  791   top_y:  237   width:  153   height:  119)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7980.png: Predicted in 22.171000 milli-seconds.
+Jellyfish: 95%	(left_x:  629   top_y:  269   width:  146   height:  171)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7971.png: Predicted in 22.139000 milli-seconds.
+Jellyfish: 98%	(left_x:  513   top_y:  253   width:  118   height:  183)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7994.png: Predicted in 22.125000 milli-seconds.
+Jellyfish: 93%	(left_x:  721   top_y:  126   width:  286   height:  257)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21370.png: Predicted in 22.217000 milli-seconds.
+Jellyfish: 98%	(left_x:  848   top_y:  302   width:  105   height:  104)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_56_13136.png: Predicted in 22.139000 milli-seconds.
+Jellyfish: 67%	(left_x: 1141   top_y:  116   width:  131   height:  184)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13006.png: Predicted in 22.138000 milli-seconds.
+Jellyfish: 77%	(left_x:  350   top_y:  343   width:  155   height:  102)
+Jellyfish: 44%	(left_x:  851   top_y:  513   width:   52   height:   60)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7165.png: Predicted in 22.555000 milli-seconds.
+Jellyfish: 97%	(left_x:  817   top_y:  191   width:  104   height:   93)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4912.png: Predicted in 22.618000 milli-seconds.
+Jellyfish: 90%	(left_x:  553   top_y:   33   width:  238   height:  312)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_06_28_19476.png: Predicted in 22.230000 milli-seconds.
+Jellyfish: 99%	(left_x:  804   top_y:  -21   width:  288   height:  255)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7958.png: Predicted in 22.214000 milli-seconds.
+Jellyfish: 89%	(left_x:  398   top_y:  185   width:  105   height:  122)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_539.png: Predicted in 22.068000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7283.png: Predicted in 22.530000 milli-seconds.
+Jellyfish: 82%	(left_x:  247   top_y:  -10   width:  261   height:  226)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21367.png: Predicted in 22.447000 milli-seconds.
+Jellyfish: 94%	(left_x:  894   top_y:  137   width:   92   height:   90)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_29_19345.png: Predicted in 22.623000 milli-seconds.
+Jellyfish: 85%	(left_x:  710   top_y:  212   width:  101   height:   93)
+Jellyfish: 32%	(left_x: 1133   top_y:  395   width:   60   height:   52)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16750.png: Predicted in 22.690000 milli-seconds.
+Jellyfish: 95%	(left_x:   23   top_y:  208   width:  593   height:  426)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2619.png: Predicted in 23.230000 milli-seconds.
+Jellyfish: 98%	(left_x:  324   top_y:   15   width:  290   height:  276)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7973.png: Predicted in 23.248000 milli-seconds.
+Jellyfish: 91%	(left_x:  546   top_y:  324   width:  120   height:  163)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_523.png: Predicted in 22.946000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2613.png: Predicted in 23.395000 milli-seconds.
+Jellyfish: 96%	(left_x:  615   top_y:  194   width:  238   height:  171)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21369.png: Predicted in 23.310000 milli-seconds.
+Jellyfish: 98%	(left_x:  872   top_y:  185   width:  100   height:  113)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_52_13004.png: Predicted in 23.043000 milli-seconds.
+Jellyfish: 67%	(left_x:  726   top_y:  527   width:   59   height:   67)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_22_570.png: Predicted in 23.250000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3830.png: Predicted in 23.585000 milli-seconds.
+Fish: 49%	(left_x:  -32   top_y:   83   width: 1349   height:  557)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_56_13138.png: Predicted in 23.256000 milli-seconds.
+Jellyfish: 75%	(left_x:  923   top_y:    0   width:  156   height:  132)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7992.png: Predicted in 23.250000 milli-seconds.
+Jellyfish: 92%	(left_x:  745   top_y:  247   width:  255   height:  213)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_52_3273.png: Predicted in 23.239000 milli-seconds.
+Jellyfish: 99%	(left_x:  -16   top_y:  -35   width:  398   height:  394)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16273.png: Predicted in 23.051000 milli-seconds.
+Jellyfish: 91%	(left_x:  792   top_y:  166   width:  262   height:  316)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7053.png: Predicted in 23.152000 milli-seconds.
+Jellyfish: 58%	(left_x:  751   top_y:  171   width:  254   height:  249)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_30_19352.png: Predicted in 23.152000 milli-seconds.
+Jellyfish: 28%	(left_x: 1170   top_y:  288   width:  101   height:  119)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21878.png: Predicted in 23.163000 milli-seconds.
+Jellyfish: 94%	(left_x:   -9   top_y:   -5   width:  259   height:  317)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9844.png: Predicted in 23.205000 milli-seconds.
+Jellyfish: 67%	(left_x:  520   top_y:   85   width:  117   height:  124)
+Fish: 37%	(left_x:  582   top_y:   97   width:  274   height:  181)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21387.png: Predicted in 23.738000 milli-seconds.
+Jellyfish: 99%	(left_x:  613   top_y:  369   width:  234   height:  167)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4910.png: Predicted in 23.822000 milli-seconds.
+Jellyfish: 93%	(left_x:  615   top_y:   21   width:  218   height:  306)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_52_3271.png: Predicted in 23.342000 milli-seconds.
+Jellyfish: 100%	(left_x:   37   top_y:    4   width:  391   height:  335)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14977.png: Predicted in 24.037000 milli-seconds.
+Jellyfish: 97%	(left_x:  914   top_y:  550   width:   80   height:   96)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16753.png: Predicted in 24.103000 milli-seconds.
+Jellyfish: 91%	(left_x:  151   top_y:   52   width:  608   height:  483)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7967.png: Predicted in 23.678000 milli-seconds.
+Jellyfish: 85%	(left_x:  470   top_y:  114   width:  123   height:  136)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16748.png: Predicted in 24.277000 milli-seconds.
+Jellyfish: 98%	(left_x:  -16   top_y:  291   width:  539   height:  360)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21393.png: Predicted in 24.448000 milli-seconds.
+Jellyfish: 99%	(left_x:  197   top_y:  331   width:  298   height:  309)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7056.png: Predicted in 23.833000 milli-seconds.
+Jellyfish: 98%	(left_x:  686   top_y:  170   width:  282   height:  239)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16759.png: Predicted in 23.826000 milli-seconds.
+Fish: 94%	(left_x:  568   top_y:  -24   width:  673   height:  673)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_06_28_19472.png: Predicted in 23.827000 milli-seconds.
+Jellyfish: 99%	(left_x:  581   top_y:  348   width:  254   height:  234)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13016.png: Predicted in 23.710000 milli-seconds.
+Jellyfish: 46%	(left_x:  499   top_y:  298   width:   48   height:   63)
+Jellyfish: 43%	(left_x: 1018   top_y:   62   width:   69   height:   53)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7162.png: Predicted in 23.794000 milli-seconds.
+Jellyfish: 91%	(left_x: 1052   top_y:  311   width:  101   height:   83)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_10_MOVI0009.avi_image_2016-10-22_09_51_20_7273.png: Predicted in 23.242000 milli-seconds.
+Jellyfish: 94%	(left_x:  922   top_y:  472   width:   82   height:   93)
+Jellyfish: 54%	(left_x: 1099   top_y:  209   width:   58   height:   68)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8002.png: Predicted in 22.865000 milli-seconds.
+Jellyfish: 85%	(left_x:  498   top_y:  115   width:  438   height:  418)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_05_04_16969.png: Predicted in 22.850000 milli-seconds.
+Jellyfish: 65%	(left_x:   -7   top_y:  194   width:  145   height:  129)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7954.png: Predicted in 22.799000 milli-seconds.
+Jellyfish: 92%	(left_x:  387   top_y:  425   width:   99   height:  127)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21386.png: Predicted in 22.692000 milli-seconds.
+Jellyfish: 98%	(left_x:  653   top_y:  380   width:  203   height:  176)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_52_13001.png: Predicted in 22.812000 milli-seconds.
+Jellyfish: 74%	(left_x:  604   top_y:  314   width:   55   height:   59)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7951.png: Predicted in 22.697000 milli-seconds.
+Jellyfish: 88%	(left_x:  390   top_y:  243   width:   86   height:  135)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4907.png: Predicted in 22.832000 milli-seconds.
+Jellyfish: 34%	(left_x:  724   top_y:   -4   width:  112   height:  143)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_568.png: Predicted in 22.833000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8008.png: Predicted in 22.813000 milli-seconds.
+Jellyfish: 81%	(left_x:  -96   top_y:  -38   width:  751   height:  488)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3829.png: Predicted in 22.798000 milli-seconds.
+Jellyfish: 49%	(left_x:  524   top_y:    7   width:  112   height:  137)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35130.png: Predicted in 22.802000 milli-seconds.
+Jellyfish: 92%	(left_x:  517   top_y:   25   width:  183   height:  185)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4900.png: Predicted in 22.773000 milli-seconds.
+Jellyfish: 66%	(left_x:  782   top_y:   45   width:  123   height:  173)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_29_19347.png: Predicted in 22.811000 milli-seconds.
+Fish: 29%	(left_x:   -9   top_y:  223   width:  336   height:  169)
+Jellyfish: 35%	(left_x:  822   top_y:   15   width:  208   height:  277)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21873.png: Predicted in 23.160000 milli-seconds.
+Jellyfish: 98%	(left_x:  518   top_y:   -1   width:  182   height:  216)
+Jellyfish: 74%	(left_x:  718   top_y:  631   width:   59   height:   94)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_569.png: Predicted in 23.264000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3835.png: Predicted in 22.798000 milli-seconds.
+Jellyfish: 75%	(left_x:  371   top_y:  297   width:  192   height:  165)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7987.png: Predicted in 22.956000 milli-seconds.
+Jellyfish: 94%	(left_x:  676   top_y:   40   width:  213   height:  215)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9850.png: Predicted in 22.840000 milli-seconds.
+Jellyfish: 92%	(left_x:  390   top_y:    9   width:  173   height:  166)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21368.png: Predicted in 22.794000 milli-seconds.
+Jellyfish: 98%	(left_x:  872   top_y:  185   width:  100   height:  113)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13009.png: Predicted in 22.699000 milli-seconds.
+Jellyfish: 73%	(left_x:  171   top_y:   83   width:  172   height:  129)
+Jellyfish: 36%	(left_x:  710   top_y:  277   width:   49   height:   63)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21377.png: Predicted in 22.779000 milli-seconds.
+Jellyfish: 89%	(left_x:  783   top_y:  290   width:  152   height:  114)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16757.png: Predicted in 22.769000 milli-seconds.
+Jellyfish: 35%	(left_x:  426   top_y:    7   width:  610   height:  247)
+Fish: 66%	(left_x:  433   top_y:   20   width:  648   height:  682)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21877.png: Predicted in 22.764000 milli-seconds.
+Jellyfish: 85%	(left_x:   40   top_y:   72   width:  285   height:  273)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8009.png: Predicted in 22.731000 milli-seconds.
+Jellyfish: 81%	(left_x:  -46   top_y:  -16   width:  621   height:  395)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16276.png: Predicted in 22.690000 milli-seconds.
+Jellyfish: 98%	(left_x:  776   top_y:  204   width:  360   height:  273)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4902.png: Predicted in 22.811000 milli-seconds.
+Jellyfish: 83%	(left_x:  761   top_y:   -0   width:  127   height:  182)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14982.png: Predicted in 22.735000 milli-seconds.
+Jellyfish: 94%	(left_x:  853   top_y:  570   width:   83   height:  123)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7998.png: Predicted in 22.657000 milli-seconds.
+Jellyfish: 98%	(left_x:  673   top_y:   53   width:  353   height:  371)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35141.png: Predicted in 22.344000 milli-seconds.
+Jellyfish: 89%	(left_x:  909   top_y:   39   width:  376   height:  386)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_08_23_22922.png: Predicted in 22.028000 milli-seconds.
+Jellyfish: 96%	(left_x:  797   top_y:  354   width:   92   height:   94)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7280.png: Predicted in 22.120000 milli-seconds.
+Jellyfish: 88%	(left_x:  790   top_y:  119   width:  247   height:  192)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8005.png: Predicted in 22.044000 milli-seconds.
+Jellyfish: 69%	(left_x:  262   top_y:   79   width:  540   height:  482)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_13_02_31310.png: Predicted in 22.040000 milli-seconds.
+Jellyfish: 77%	(left_x:  594   top_y:  150   width:  673   height:  404)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7995.png: Predicted in 21.968000 milli-seconds.
+Jellyfish: 89%	(left_x:  714   top_y:   74   width:  291   height:  260)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_56_16730.png: Predicted in 21.985000 milli-seconds.
+Jellyfish: 58%	(left_x:  517   top_y:  180   width:   42   height:   48)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_05_05_16983.png: Predicted in 22.033000 milli-seconds.
+Jellyfish: 97%	(left_x:  519   top_y:  133   width:  295   height:  310)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_567.png: Predicted in 22.056000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_08_23_22920.png: Predicted in 22.070000 milli-seconds.
+Jellyfish: 92%	(left_x:  761   top_y:  282   width:   85   height:  116)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8001.png: Predicted in 22.098000 milli-seconds.
+Jellyfish: 98%	(left_x:  536   top_y:  110   width:  451   height:  415)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_05_15021.png: Predicted in 22.036000 milli-seconds.
+Jellyfish: 94%	(left_x:  788   top_y:  -39   width:  516   height:  461)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14975.png: Predicted in 22.100000 milli-seconds.
+Jellyfish: 92%	(left_x:  894   top_y:  596   width:   73   height:  112)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7061.png: Predicted in 22.075000 milli-seconds.
+Jellyfish: 92%	(left_x:  603   top_y:   89   width:  392   height:  287)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14972.png: Predicted in 21.978000 milli-seconds.
+Jellyfish: 95%	(left_x:  875   top_y:  437   width:   71   height:  101)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4913.png: Predicted in 22.055000 milli-seconds.
+Jellyfish: 95%	(left_x:  505   top_y:   29   width:  240   height:  350)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_524.png: Predicted in 22.033000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_52_3274.png: Predicted in 22.225000 milli-seconds.
+Jellyfish: 99%	(left_x:   -2   top_y:  -19   width:  338   height:  353)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4916.png: Predicted in 22.487000 milli-seconds.
+Jellyfish: 82%	(left_x:  346   top_y:  -25   width:  314   height:  411)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4917.png: Predicted in 22.285000 milli-seconds.
+Jellyfish: 98%	(left_x:  251   top_y:  -22   width:  355   height:  410)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7968.png: Predicted in 22.275000 milli-seconds.
+Jellyfish: 90%	(left_x:  448   top_y:   68   width:  118   height:  169)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35132.png: Predicted in 21.987000 milli-seconds.
+Jellyfish: 98%	(left_x:  405   top_y:   86   width:  209   height:  202)
+Fish: 28%	(left_x:  987   top_y:  124   width:  290   height:  581)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4915.png: Predicted in 21.941000 milli-seconds.
+Jellyfish: 98%	(left_x:  410   top_y:  -10   width:  275   height:  389)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7982.png: Predicted in 21.832000 milli-seconds.
+Jellyfish: 97%	(left_x:  653   top_y:  242   width:  157   height:  156)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2621.png: Predicted in 22.021000 milli-seconds.
+Jellyfish: 96%	(left_x:  241   top_y:  -24   width:  286   height:  259)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7961.png: Predicted in 21.969000 milli-seconds.
+Jellyfish: 80%	(left_x:  448   top_y:  142   width:  113   height:  148)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16261.png: Predicted in 21.789000 milli-seconds.
+Jellyfish: 97%	(left_x:  596   top_y:    2   width:  164   height:  156)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4914.png: Predicted in 21.405000 milli-seconds.
+Jellyfish: 76%	(left_x:  472   top_y:    9   width:  228   height:  381)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7993.png: Predicted in 21.389000 milli-seconds.
+Jellyfish: 90%	(left_x:  731   top_y:  185   width:  272   height:  255)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_57_13140.png: Predicted in 21.762000 milli-seconds.
+Jellyfish: 96%	(left_x:  830   top_y:   27   width:  154   height:  203)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12990.png: Predicted in 21.775000 milli-seconds.
+Jellyfish: 92%	(left_x:  598   top_y:  307   width:  116   height:   97)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7055.png: Predicted in 21.347000 milli-seconds.
+Jellyfish: 98%	(left_x:  712   top_y:  230   width:  271   height:  239)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2616.png: Predicted in 21.358000 milli-seconds.
+Jellyfish: 100%	(left_x:  491   top_y:  -12   width:  251   height:  216)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13015.png: Predicted in 21.432000 milli-seconds.
+Jellyfish: 72%	(left_x: 1043   top_y:   48   width:   56   height:   59)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7281.png: Predicted in 21.406000 milli-seconds.
+Jellyfish: 56%	(left_x:  427   top_y:  297   width:   60   height:   60)
+Jellyfish: 98%	(left_x:  613   top_y:   59   width:  252   height:  192)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16752.png: Predicted in 21.412000 milli-seconds.
+Jellyfish: 75%	(left_x:   50   top_y:   80   width:  646   height:  495)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16271.png: Predicted in 21.768000 milli-seconds.
+Jellyfish: 96%	(left_x:  744   top_y:  117   width:  244   height:  253)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_52_13005.png: Predicted in 21.810000 milli-seconds.
+Jellyfish: 57%	(left_x:  776   top_y:  553   width:   59   height:   65)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13001.png: Predicted in 21.850000 milli-seconds.
+Jellyfish: 42%	(left_x:  475   top_y:  337   width:  153   height:  112)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4894.png: Predicted in 21.735000 milli-seconds.
+Jellyfish: 92%	(left_x:  788   top_y:   85   width:  115   height:  131)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_538.png: Predicted in 21.848000 milli-seconds.
+Fish: 33%	(left_x:  107   top_y:   96   width:  457   height:  429)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_06_28_19481.png: Predicted in 21.898000 milli-seconds.
+Jellyfish: 73%	(left_x: 1094   top_y:   -1   width:  157   height:  263)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7953.png: Predicted in 21.386000 milli-seconds.
+Jellyfish: 89%	(left_x:  407   top_y:  370   width:   90   height:  135)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16751.png: Predicted in 21.488000 milli-seconds.
+Jellyfish: 95%	(left_x:    5   top_y:  154   width:  671   height:  456)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_08_22_22918.png: Predicted in 21.468000 milli-seconds.
+Jellyfish: 91%	(left_x:  716   top_y:   87   width:   79   height:  117)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21373.png: Predicted in 21.834000 milli-seconds.
+Jellyfish: 98%	(left_x:  843   top_y:  122   width:  111   height:  104)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16760.png: Predicted in 21.506000 milli-seconds.
+Fish: 97%	(left_x:  608   top_y:  -27   width:  642   height:  672)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7054.png: Predicted in 21.333000 milli-seconds.
+Jellyfish: 95%	(left_x:  726   top_y:  238   width:  277   height:  249)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_06_28_19475.png: Predicted in 21.484000 milli-seconds.
+Jellyfish: 98%	(left_x:  708   top_y:   11   width:  308   height:  270)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_533.png: Predicted in 21.525000 milli-seconds.
+Fish: 37%	(left_x:   21   top_y:  108   width:  447   height:  490)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16749.png: Predicted in 21.515000 milli-seconds.
+Jellyfish: 92%	(left_x:   -6   top_y:  255   width:  545   height:  394)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7161.png: Predicted in 21.553000 milli-seconds.
+Jellyfish: 61%	(left_x: 1135   top_y:  397   width:  109   height:   79)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13000.png: Predicted in 21.561000 milli-seconds.
+Jellyfish: 88%	(left_x:  491   top_y:  318   width:  148   height:  109)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7996.png: Predicted in 21.500000 milli-seconds.
+Jellyfish: 97%	(left_x:  683   top_y:   28   width:  338   height:  324)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16761.png: Predicted in 21.568000 milli-seconds.
+Fish: 91%	(left_x:  742   top_y:  -41   width:  537   height:  699)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21395.png: Predicted in 21.530000 milli-seconds.
+Jellyfish: 99%	(left_x:    4   top_y:  267   width:  346   height:  341)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21871.png: Predicted in 21.482000 milli-seconds.
+Jellyfish: 86%	(left_x:  506   top_y:  137   width:  157   height:  181)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35138.png: Predicted in 21.186000 milli-seconds.
+Jellyfish: 94%	(left_x:  500   top_y:    3   width:  407   height:  261)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12999.png: Predicted in 21.232000 milli-seconds.
+Jellyfish: 76%	(left_x:  507   top_y:  295   width:  146   height:  119)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13010.png: Predicted in 21.534000 milli-seconds.
+Jellyfish: 97%	(left_x:  112   top_y:    2   width:  153   height:  142)
+Jellyfish: 62%	(left_x:  673   top_y:  215   width:   44   height:   56)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_532.png: Predicted in 21.525000 milli-seconds.
+Fish: 37%	(left_x:   22   top_y:   89   width:  412   height:  436)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16763.png: Predicted in 21.581000 milli-seconds.
+Fish: 79%	(left_x:  807   top_y:  -41   width:  470   height:  695)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4909.png: Predicted in 21.569000 milli-seconds.
+Jellyfish: 91%	(left_x:  658   top_y:   -3   width:  184   height:  275)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_05_15022.png: Predicted in 21.559000 milli-seconds.
+Jellyfish: 69%	(left_x: 1095   top_y:   -7   width:  189   height:  209)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2610.png: Predicted in 21.486000 milli-seconds.
+Jellyfish: 95%	(left_x:  720   top_y:   78   width:  198   height:  169)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9857.png: Predicted in 21.212000 milli-seconds.
+Jellyfish: 92%	(left_x:  148   top_y:  -13   width:  265   height:  157)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21371.png: Predicted in 21.023000 milli-seconds.
+Jellyfish: 98%	(left_x:  851   top_y:  327   width:  109   height:   94)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21396.png: Predicted in 21.077000 milli-seconds.
+Jellyfish: 96%	(left_x:   -3   top_y:  229   width:  269   height:  341)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16253.png: Predicted in 20.923000 milli-seconds.
+Jellyfish: 79%	(left_x:  445   top_y:  413   width:  162   height:  129)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7050.png: Predicted in 21.052000 milli-seconds.
+Jellyfish: 98%	(left_x:  888   top_y:  -11   width:  281   height:  172)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_541.png: Predicted in 21.039000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13011.png: Predicted in 21.060000 milli-seconds.
+Jellyfish: 85%	(left_x:   33   top_y:   -2   width:  166   height:  105)
+Jellyfish: 65%	(left_x:  624   top_y:  189   width:   54   height:   59)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7976.png: Predicted in 20.968000 milli-seconds.
+Jellyfish: 80%	(left_x:  560   top_y:  172   width:  126   height:  163)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16666.png: Predicted in 20.918000 milli-seconds.
+Jellyfish: 97%	(left_x:  269   top_y:  320   width:   99   height:  110)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21874.png: Predicted in 20.831000 milli-seconds.
+Jellyfish: 96%	(left_x:  455   top_y:   32   width:  200   height:  307)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4899.png: Predicted in 20.886000 milli-seconds.
+Jellyfish: 91%	(left_x:  791   top_y:    2   width:  118   height:  192)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16665.png: Predicted in 20.994000 milli-seconds.
+Jellyfish: 98%	(left_x:  273   top_y:  293   width:  104   height:  115)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7284.png: Predicted in 20.957000 milli-seconds.
+Jellyfish: 98%	(left_x:   94   top_y:    6   width:  360   height:  363)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7063.png: Predicted in 21.015000 milli-seconds.
+Jellyfish: 66%	(left_x:  582   top_y:   -7   width:  387   height:  275)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16671.png: Predicted in 21.081000 milli-seconds.
+Jellyfish: 93%	(left_x:  277   top_y:  310   width:  111   height:  118)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_527.png: Predicted in 21.024000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16270.png: Predicted in 20.955000 milli-seconds.
+Jellyfish: 92%	(left_x:  715   top_y:   63   width:  229   height:  240)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2615.png: Predicted in 21.019000 milli-seconds.
+Jellyfish: 97%	(left_x:  559   top_y:   60   width:  226   height:  200)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2618.png: Predicted in 20.966000 milli-seconds.
+Jellyfish: 96%	(left_x:  382   top_y:  -23   width:  262   height:  257)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21388.png: Predicted in 21.031000 milli-seconds.
+Jellyfish: 99%	(left_x:  577   top_y:  356   width:  246   height:  189)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9848.png: Predicted in 20.966000 milli-seconds.
+Jellyfish: 73%	(left_x:  393   top_y:    3   width:  172   height:   75)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_13_02_31311.png: Predicted in 20.862000 milli-seconds.
+Jellyfish: 81%	(left_x:  616   top_y:  -19   width:  675   height:  352)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_05_7287.png: Predicted in 21.040000 milli-seconds.
+Fish: 26%	(left_x:   31   top_y:   10   width:  618   height:  584)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7052.png: Predicted in 20.986000 milli-seconds.
+Jellyfish: 73%	(left_x:  754   top_y:    9   width:  321   height:  276)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7051.png: Predicted in 20.953000 milli-seconds.
+Jellyfish: 93%	(left_x:  829   top_y:   -8   width:  267   height:  200)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9843.png: Predicted in 20.948000 milli-seconds.
+Jellyfish: 82%	(left_x:  536   top_y:   24   width:   96   height:  148)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_56_16728.png: Predicted in 21.153000 milli-seconds.
+Jellyfish: 47%	(left_x:  509   top_y:  186   width:   41   height:   47)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_30_9837.png: Predicted in 21.006000 milli-seconds.
+Jellyfish: 91%	(left_x:  642   top_y:    0   width:   84   height:   89)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4908.png: Predicted in 20.870000 milli-seconds.
+Jellyfish: 93%	(left_x:  685   top_y:    4   width:  164   height:  230)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9845.png: Predicted in 20.926000 milli-seconds.
+Fish: 34%	(left_x:  541   top_y:   97   width:  351   height:  183)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16259.png: Predicted in 21.069000 milli-seconds.
+Jellyfish: 85%	(left_x:  564   top_y:  113   width:  141   height:  154)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_30_9836.png: Predicted in 21.031000 milli-seconds.
+Jellyfish: 74%	(left_x:  662   top_y:   52   width:   86   height:   87)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_22_571.png: Predicted in 21.220000 milli-seconds.
+Fish: 35%	(left_x:  321   top_y:   32   width:  176   height:   74)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8007.png: Predicted in 21.032000 milli-seconds.
+Jellyfish: 84%	(left_x:   41   top_y:   20   width:  641   height:  458)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7999.png: Predicted in 21.031000 milli-seconds.
+Jellyfish: 99%	(left_x:  639   top_y:   74   width:  387   height:  385)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7166.png: Predicted in 21.022000 milli-seconds.
+Jellyfish: 96%	(left_x:  787   top_y:  269   width:   92   height:  108)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16254.png: Predicted in 20.950000 milli-seconds.
+Jellyfish: 87%	(left_x:  457   top_y:  315   width:  155   height:  133)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_545.png: Predicted in 21.046000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21374.png: Predicted in 22.754000 milli-seconds.
+Jellyfish: 81%	(left_x:  835   top_y:  135   width:  112   height:  132)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12992.png: Predicted in 22.666000 milli-seconds.
+Jellyfish: 94%	(left_x:  593   top_y:  321   width:  110   height:   95)
+Jellyfish: 27%	(left_x:  986   top_y:  471   width:   55   height:   48)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13014.png: Predicted in 22.253000 milli-seconds.
+Jellyfish: 66%	(left_x:   -1   top_y:   14   width:   48   height:  172)
+Jellyfish: 64%	(left_x:  522   top_y:  271   width:   72   height:   86)
+Jellyfish: 28%	(left_x: 1062   top_y:   25   width:   53   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3834.png: Predicted in 22.934000 milli-seconds.
+Jellyfish: 63%	(left_x:  414   top_y:  431   width:  182   height:  162)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21870.png: Predicted in 22.860000 milli-seconds.
+Jellyfish: 97%	(left_x:  455   top_y:  119   width:  158   height:  227)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16269.png: Predicted in 22.670000 milli-seconds.
+Jellyfish: 97%	(left_x:  703   top_y:    7   width:  204   height:  223)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_536.png: Predicted in 23.284000 milli-seconds.
+Fish: 42%	(left_x:   57   top_y:    4   width:  534   height:  608)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8003.png: Predicted in 23.245000 milli-seconds.
+Jellyfish: 93%	(left_x:  385   top_y:  110   width:  523   height:  474)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_537.png: Predicted in 22.736000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2612.png: Predicted in 23.248000 milli-seconds.
+Jellyfish: 95%	(left_x:  642   top_y:  189   width:  235   height:  186)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_30_19353.png: Predicted in 23.416000 milli-seconds.
+Jellyfish: 32%	(left_x: 1205   top_y:  222   width:   67   height:  133)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21879.png: Predicted in 23.011000 milli-seconds.
+Jellyfish: 92%	(left_x:   -7   top_y:   -6   width:  169   height:  262)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21383.png: Predicted in 22.987000 milli-seconds.
+Jellyfish: 99%	(left_x:  746   top_y:  499   width:  171   height:  139)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_06_28_19474.png: Predicted in 22.257000 milli-seconds.
+Jellyfish: 99%	(left_x:  654   top_y:  112   width:  299   height:  255)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4893.png: Predicted in 21.815000 milli-seconds.
+Jellyfish: 93%	(left_x:  776   top_y:  141   width:  114   height:  133)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_41_16278.png: Predicted in 22.211000 milli-seconds.
+Jellyfish: 100%	(left_x:  816   top_y:   40   width:  442   height:  293)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_56_13137.png: Predicted in 21.883000 milli-seconds.
+Jellyfish: 94%	(left_x: 1026   top_y:   17   width:  171   height:  162)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7062.png: Predicted in 22.335000 milli-seconds.
+Jellyfish: 93%	(left_x:  603   top_y:   43   width:  388   height:  304)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9851.png: Predicted in 22.350000 milli-seconds.
+Jellyfish: 68%	(left_x:  401   top_y:   54   width:  169   height:  210)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13019.png: Predicted in 22.012000 milli-seconds.
+Jellyfish: 56%	(left_x:  428   top_y:  191   width:   49   height:   69)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7983.png: Predicted in 21.725000 milli-seconds.
+Jellyfish: 96%	(left_x:  656   top_y:  188   width:  155   height:  156)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13002.png: Predicted in 21.927000 milli-seconds.
+Jellyfish: 88%	(left_x:  455   top_y:  346   width:  151   height:  115)
+Jellyfish: 35%	(left_x:  943   top_y:  522   width:   41   height:   53)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13013.png: Predicted in 21.840000 milli-seconds.
+Jellyfish: 50%	(left_x:   -0   top_y:   -7   width:   87   height:  154)
+Jellyfish: 34%	(left_x:  558   top_y:  238   width:   50   height:   69)
+Jellyfish: 33%	(left_x: 1085   top_y:   -1   width:   62   height:   43)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7970.png: Predicted in 21.762000 milli-seconds.
+Jellyfish: 95%	(left_x:  474   top_y:  149   width:  105   height:  187)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7969.png: Predicted in 21.778000 milli-seconds.
+Jellyfish: 77%	(left_x:  439   top_y:   84   width:  123   height:  178)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7963.png: Predicted in 21.800000 milli-seconds.
+Jellyfish: 82%	(left_x:  478   top_y:  230   width:  114   height:  136)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_10_MOVI0009.avi_image_2016-10-22_09_51_20_7272.png: Predicted in 21.812000 milli-seconds.
+Jellyfish: 87%	(left_x:  913   top_y:  444   width:   75   height:   80)
+Jellyfish: 47%	(left_x: 1081   top_y:  190   width:   65   height:   56)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_05_04_16968.png: Predicted in 21.485000 milli-seconds.
+Jellyfish: 77%	(left_x:   30   top_y:  287   width:  161   height:  120)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16747.png: Predicted in 21.624000 milli-seconds.
+Jellyfish: 89%	(left_x:   -4   top_y:  325   width:  514   height:  331)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7957.png: Predicted in 21.584000 milli-seconds.
+Jellyfish: 99%	(left_x:  381   top_y:  288   width:   97   height:  125)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12996.png: Predicted in 21.639000 milli-seconds.
+Jellyfish: 95%	(left_x:  548   top_y:  291   width:  134   height:  103)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14978.png: Predicted in 21.536000 milli-seconds.
+Jellyfish: 98%	(left_x:  914   top_y:  494   width:   82   height:  100)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4918.png: Predicted in 21.618000 milli-seconds.
+Jellyfish: 96%	(left_x:  160   top_y:  -20   width:  374   height:  401)
+Jellyfish: 39%	(left_x:  916   top_y:    1   width:   46   height:   44)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7955.png: Predicted in 21.815000 milli-seconds.
+Jellyfish: 95%	(left_x:  378   top_y:  432   width:  104   height:  122)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7956.png: Predicted in 21.779000 milli-seconds.
+Jellyfish: 92%	(left_x:  374   top_y:  379   width:   93   height:  122)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7950.png: Predicted in 21.585000 milli-seconds.
+Jellyfish: 29%	(left_x:    2   top_y:   -3   width:   29   height:   76)
+Jellyfish: 99%	(left_x:  335   top_y:  234   width:   91   height:  124)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_542.png: Predicted in 21.569000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21385.png: Predicted in 21.575000 milli-seconds.
+Jellyfish: 99%	(left_x:  677   top_y:  432   width:  205   height:  146)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21390.png: Predicted in 21.567000 milli-seconds.
+Jellyfish: 99%	(left_x:  488   top_y:  335   width:  232   height:  255)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16672.png: Predicted in 21.729000 milli-seconds.
+Jellyfish: 91%	(left_x:  301   top_y:  335   width:   98   height:  125)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3833.png: Predicted in 21.788000 milli-seconds.
+Jellyfish: 50%	(left_x:  454   top_y:  439   width:  159   height:  160)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_30_19350.png: Predicted in 21.678000 milli-seconds.
+Fish: 32%	(left_x:  135   top_y:  439   width:  416   height:  167)
+Jellyfish: 32%	(left_x: 1022   top_y:  278   width:  227   height:  361)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21376.png: Predicted in 21.703000 milli-seconds.
+Jellyfish: 84%	(left_x:  780   top_y:  309   width:  148   height:  115)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_40_16255.png: Predicted in 21.469000 milli-seconds.
+Jellyfish: 97%	(left_x:  472   top_y:  228   width:  167   height:  136)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_525.png: Predicted in 21.790000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35140.png: Predicted in 21.673000 milli-seconds.
+Jellyfish: 80%	(left_x:  733   top_y:   16   width:  531   height:  377)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_52_3275.png: Predicted in 21.784000 milli-seconds.
+Jellyfish: 99%	(left_x:   -4   top_y:   -7   width:  299   height:  313)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7978.png: Predicted in 21.693000 milli-seconds.
+Jellyfish: 83%	(left_x:  577   top_y:  138   width:  143   height:  181)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35131.png: Predicted in 21.667000 milli-seconds.
+Jellyfish: 91%	(left_x:  445   top_y:   83   width:  207   height:  185)
+Fish: 77%	(left_x: 1006   top_y:  253   width:  267   height:  439)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16670.png: Predicted in 21.781000 milli-seconds.
+Jellyfish: 91%	(left_x:  264   top_y:  316   width:  104   height:  103)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7058.png: Predicted in 21.812000 milli-seconds.
+Jellyfish: 95%	(left_x:  663   top_y:   -9   width:  288   height:  295)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16664.png: Predicted in 21.646000 milli-seconds.
+Jellyfish: 97%	(left_x:  276   top_y:  272   width:  101   height:  109)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_535.png: Predicted in 21.499000 milli-seconds.
+Fish: 29%	(left_x:   49   top_y:   23   width:  545   height:  563)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_52_3276.png: Predicted in 21.626000 milli-seconds.
+Jellyfish: 91%	(left_x:   -5   top_y:   -3   width:  259   height:  308)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7966.png: Predicted in 21.480000 milli-seconds.
+Jellyfish: 75%	(left_x:  499   top_y:  157   width:  127   height:  143)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_56_13139.png: Predicted in 23.260000 milli-seconds.
+Jellyfish: 86%	(left_x:  879   top_y:   -5   width:  143   height:  168)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12994.png: Predicted in 23.269000 milli-seconds.
+Jellyfish: 95%	(left_x:  568   top_y:  302   width:  125   height:  101)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21379.png: Predicted in 22.758000 milli-seconds.
+Jellyfish: 94%	(left_x:  798   top_y:  199   width:  146   height:  148)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_29_19346.png: Predicted in 22.749000 milli-seconds.
+Fish: 31%	(left_x:  -63   top_y:   62   width: 1003   height:  477)
+Jellyfish: 29%	(left_x:  729   top_y:  101   width:  185   height:  262)
+Jellyfish: 51%	(left_x:  805   top_y:   97   width:  115   height:   93)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0253_11_MOVI0010.avi_image_2016-10-22_10_09_26_3836.png: Predicted in 22.675000 milli-seconds.
+Jellyfish: 81%	(left_x:  379   top_y:  212   width:  186   height:  176)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_54_16668.png: Predicted in 22.851000 milli-seconds.
+Jellyfish: 97%	(left_x:  259   top_y:  325   width:  102   height:  104)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_564.png: Predicted in 23.019000 milli-seconds.
+Fish: 38%	(left_x:  200   top_y:   99   width:  516   height:  405)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12995.png: Predicted in 23.304000 milli-seconds.
+Jellyfish: 95%	(left_x:  561   top_y:  296   width:  131   height:  100)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13005.png: Predicted in 22.949000 milli-seconds.
+Jellyfish: 84%	(left_x:  384   top_y:  368   width:  159   height:  108)
+Jellyfish: 35%	(left_x:  877   top_y:  545   width:   57   height:   58)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13004.png: Predicted in 23.335000 milli-seconds.
+Jellyfish: 43%	(left_x:  413   top_y:  358   width:  145   height:  132)
+Jellyfish: 30%	(left_x:  900   top_y:  549   width:   60   height:   56)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_05_05_16984.png: Predicted in 23.226000 milli-seconds.
+Jellyfish: 99%	(left_x:  595   top_y:   75   width:  344   height:  373)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_46_3095.png: Predicted in 22.936000 milli-seconds.
+Jellyfish: 98%	(left_x:  698   top_y:   -1   width:   99   height:   99)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14981.png: Predicted in 22.878000 milli-seconds.
+Jellyfish: 97%	(left_x:  875   top_y:  480   width:   84   height:  121)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16754.png: Predicted in 23.673000 milli-seconds.
+Jellyfish: 91%	(left_x:  230   top_y:    7   width:  602   height:  477)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21380.png: Predicted in 23.641000 milli-seconds.
+Jellyfish: 96%	(left_x:  792   top_y:  261   width:  145   height:  154)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_565.png: Predicted in 23.133000 milli-seconds.
+Fish: 26%	(left_x:  221   top_y:   46   width:  469   height:  426)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21392.png: Predicted in 23.718000 milli-seconds.
+Jellyfish: 100%	(left_x:  298   top_y:  340   width:  292   height:  283)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_12_05_12_21872.png: Predicted in 23.817000 milli-seconds.
+Jellyfish: 99%	(left_x:  520   top_y:   32   width:  178   height:  194)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7060.png: Predicted in 23.480000 milli-seconds.
+Jellyfish: 99%	(left_x:  627   top_y:   10   width:  365   height:  359)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_8004.png: Predicted in 23.488000 milli-seconds.
+Jellyfish: 87%	(left_x:  304   top_y:   99   width:  535   height:  508)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_12_40_7057.png: Predicted in 23.472000 milli-seconds.
+Jellyfish: 99%	(left_x:  676   top_y:   71   width:  285   height:  252)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_534.png: Predicted in 23.471000 milli-seconds.
+Fish: 74%	(left_x:   42   top_y:   88   width:  421   height:  536)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9854.png: Predicted in 23.384000 milli-seconds.
+Jellyfish: 88%	(left_x:  322   top_y:  107   width:  220   height:  210)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9846.png: Predicted in 23.677000 milli-seconds.
+Jellyfish: 54%	(left_x:  471   top_y:   32   width:  119   height:  129)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4891.png: Predicted in 23.342000 milli-seconds.
+Jellyfish: 83%	(left_x:  754   top_y:  102   width:  113   height:  145)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_28_4895.png: Predicted in 23.233000 milli-seconds.
+Jellyfish: 96%	(left_x:  802   top_y:    5   width:  119   height:  132)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21366.png: Predicted in 23.779000 milli-seconds.
+Jellyfish: 81%	(left_x:  896   top_y:  158   width:   88   height:   87)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_11_29_4921.png: Predicted in 23.589000 milli-seconds.
+Jellyfish: 66%	(left_x:    8   top_y:  -27   width:  311   height:  420)
+Jellyfish: 53%	(left_x:  816   top_y:   -1   width:   48   height:   46)
+Jellyfish: 48%	(left_x: 1134   top_y:  484   width:   56   height:   48)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12991.png: Predicted in 23.559000 milli-seconds.
+Jellyfish: 95%	(left_x:  599   top_y:  320   width:  106   height:   97)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_29_7985.png: Predicted in 24.070000 milli-seconds.
+Jellyfish: 93%	(left_x:  667   top_y:   47   width:  165   height:  177)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_52_3270.png: Predicted in 24.054000 milli-seconds.
+Jellyfish: 98%	(left_x:   94   top_y:   16   width:  385   height:  314)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_37_21372.png: Predicted in 23.589000 milli-seconds.
+Jellyfish: 98%	(left_x:  843   top_y:  272   width:  110   height:   93)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_01_7167.png: Predicted in 23.551000 milli-seconds.
+Jellyfish: 91%	(left_x:  755   top_y:  338   width:   91   height:  109)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_13007.png: Predicted in 23.643000 milli-seconds.
+Jellyfish: 74%	(left_x:  308   top_y:  258   width:  155   height:  137)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7964.png: Predicted in 23.131000 milli-seconds.
+Jellyfish: 92%	(left_x:  510   top_y:  230   width:  121   height:  133)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9852.png: Predicted in 23.137000 milli-seconds.
+Jellyfish: 64%	(left_x:  393   top_y:  136   width:  180   height:  187)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_8_MOVI0086.avi_image_2016-11-24_08_43_22_35133.png: Predicted in 23.100000 milli-seconds.
+Jellyfish: 95%	(left_x:  396   top_y:   42   width:  214   height:  225)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_21_566.png: Predicted in 23.145000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_02_52_12999.png: Predicted in 23.116000 milli-seconds.
+Jellyfish: 72%	(left_x:  508   top_y:  418   width:   50   height:   57)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_20_38_21394.png: Predicted in 23.138000 milli-seconds.
+Jellyfish: 100%	(left_x:   39   top_y:  333   width:  391   height:  274)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_05_15019.png: Predicted in 23.111000 milli-seconds.
+Jellyfish: 73%	(left_x:  502   top_y:  253   width:  623   height:  454)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_19_30_19351.png: Predicted in 23.177000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_17_04_14979.png: Predicted in 23.194000 milli-seconds.
+Jellyfish: 97%	(left_x:  906   top_y:  440   width:   79   height:  104)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_526.png: Predicted in 23.157000 milli-seconds.
+Fish: 33%	(left_x:   55   top_y:  121   width:  546   height:  474)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_53_20_529.png: Predicted in 23.225000 milli-seconds.
+Fish: 45%	(left_x:   54   top_y:   60   width:  378   height:  392)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7974.png: Predicted in 23.091000 milli-seconds.
+Jellyfish: 93%	(left_x:  543   top_y:  298   width:  133   height:  162)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0272_16_MOVI0094.avi_image_2016-11-24_12_04_57_16762.png: Predicted in 22.665000 milli-seconds.
+Fish: 92%	(left_x:  772   top_y:  -30   width:  516   height:  679)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_57_28_7965.png: Predicted in 22.416000 milli-seconds.
+Jellyfish: 91%	(left_x:  517   top_y:  205   width:  123   height:  128)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0237_11_MOVI0010.avi_image_2016-10-18_10_15_58_12993.png: Predicted in 22.289000 milli-seconds.
+Jellyfish: 75%	(left_x:  576   top_y:  299   width:  119   height:  116)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9849.png: Predicted in 22.254000 milli-seconds.
+Jellyfish: 79%	(left_x:  376   top_y:    3   width:  179   height:   89)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_58_31_9856.png: Predicted in 22.240000 milli-seconds.
+Jellyfish: 97%	(left_x:  195   top_y:   -4   width:  285   height:  243)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/valid/GI-LP0262_16_MOVI0015.avi_image_2016-11-22_11_54_30_2611.png: Predicted in 22.260000 milli-seconds.
+Jellyfish: 96%	(left_x:  674   top_y:  165   width:  209   height:  159)
+Enter Image Path: 
